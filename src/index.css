@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a:hover{
+    color: aqua;
+}
+
+ul a.active{
+    color: aqua;
+    text-decoration: underline;
+}
+
+nav>ul>li{
+    margin-top: 15px;
+}
+
