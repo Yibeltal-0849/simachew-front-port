@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SimachewD/simachew-front-port/static/css/main.f8c3f0a1.css",
-    "main.js": "/SimachewD/simachew-front-port/static/js/main.d524eeaa.js",
-    "static/media/profile.jpg": "/SimachewD/simachew-front-port/static/media/profile.c4f2ab81246229e47358.jpg",
-    "index.html": "/SimachewD/simachew-front-port/index.html",
-    "main.f8c3f0a1.css.map": "/SimachewD/simachew-front-port/static/css/main.f8c3f0a1.css.map",
-    "main.d524eeaa.js.map": "/SimachewD/simachew-front-port/static/js/main.d524eeaa.js.map"
+    "main.css": "//simachew-front-port/static/css/main.f8c3f0a1.css",
+    "main.js": "//simachew-front-port/static/js/main.b327c01a.js",
+    "static/media/profile.jpg": "//simachew-front-port/static/media/profile.c4f2ab81246229e47358.jpg",
+    "index.html": "//simachew-front-port/index.html",
+    "main.f8c3f0a1.css.map": "//simachew-front-port/static/css/main.f8c3f0a1.css.map",
+    "main.b327c01a.js.map": "//simachew-front-port/static/js/main.b327c01a.js.map"
   },
   "entrypoints": [
     "static/css/main.f8c3f0a1.css",
-    "static/js/main.d524eeaa.js"
+    "static/js/main.b327c01a.js"
   ]
 }
