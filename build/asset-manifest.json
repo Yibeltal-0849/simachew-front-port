@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8c3f0a1.css",
-    "main.js": "/static/js/main.c2472018.js",
-    "static/media/profile.jpg": "/static/media/profile.c4f2ab81246229e47358.jpg",
-    "index.html": "/index.html",
-    "main.f8c3f0a1.css.map": "/static/css/main.f8c3f0a1.css.map",
-    "main.c2472018.js.map": "/static/js/main.c2472018.js.map"
+    "main.css": "/SimachewD/simachew-front-port/static/css/main.f8c3f0a1.css",
+    "main.js": "/SimachewD/simachew-front-port/static/js/main.d524eeaa.js",
+    "static/media/profile.jpg": "/SimachewD/simachew-front-port/static/media/profile.c4f2ab81246229e47358.jpg",
+    "index.html": "/SimachewD/simachew-front-port/index.html",
+    "main.f8c3f0a1.css.map": "/SimachewD/simachew-front-port/static/css/main.f8c3f0a1.css.map",
+    "main.d524eeaa.js.map": "/SimachewD/simachew-front-port/static/js/main.d524eeaa.js.map"
   },
   "entrypoints": [
     "static/css/main.f8c3f0a1.css",
-    "static/js/main.c2472018.js"
+    "static/js/main.d524eeaa.js"
   ]
 }
